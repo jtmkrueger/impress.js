@@ -100,6 +100,7 @@ a:hover {
 /* COMMON STEP STYLES */
 
 .step {
+    background: rgba(255,255,255,.5);
     width: 900px;
     padding: 40px;
 
@@ -360,6 +361,25 @@ a:hover {
     transform:         translateX(850px) translateY(-450px);
 }
 
+#park-design {
+  height: 700px;
+  width: 240px;
+  position: absolute;
+
+}
+
+.text {
+  width: 700px;
+}
+.paragraph {
+  width: 1300px;
+  height: 700px;
+  font-size: 18px;
+}
+.line {
+  width: 500px;
+  height: 300px;
+}
 /* overview step */
 
 #overview {
